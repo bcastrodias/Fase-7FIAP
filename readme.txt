@@ -12,7 +12,7 @@ Projeto Visão Computacional + Integrações Agrícolas
 
 Este projeto aplica técnicas de visão computacional com YOLOv8 e integra soluções para automação agrícola. Além da detecção automática de objetos em imagens, ele permite simulações de plantio, leitura de sensores e visualização de código IoT, em uma interface multipage construída com Streamlit.
 
-O projeto foi desenvolvido como parte do curso de Engenharia de Software da FIAP.
+O projeto foi desenvolvido como parte do curso de Inteligência Artificial da FIAP.
 
 ## 📁 Estrutura do Projeto
 
