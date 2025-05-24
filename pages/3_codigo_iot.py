@@ -2,7 +2,7 @@ import streamlit as st
 from pathlib import Path
 
 # Caminho para o arquivo .ino (relativo à raiz do projeto)
-ino_path = Path("Fase-3/sketchIOT.ino")
+ino_path = Path("sketch.ino")
 
 # Tenta abrir o arquivo .ino
 try:
