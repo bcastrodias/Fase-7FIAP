@@ -8,6 +8,9 @@ Projeto Visão Computacional + Integrações Agrícolas
 - Hugo Mariano - RM560688: https://www.linkedin.com/in/hugomariano191628150/
 - Matheus Castro - RM559293: https://www.linkedin.com/in/matheus-castro-63644b224/
 
+## Vídeo
+https://www.youtube.com/watch?v=gYE-0CWBojc
+
 ## 📜 Descrição
 
 Este projeto aplica técnicas de visão computacional com YOLOv8 e integra soluções para automação agrícola. Além da detecção automática de objetos em imagens, ele permite simulações de plantio, leitura de sensores e visualização de código IoT, em uma interface multipage construída com Streamlit.
